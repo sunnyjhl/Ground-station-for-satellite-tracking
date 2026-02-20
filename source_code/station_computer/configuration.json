@@ -1,0 +1,19 @@
+{
+    "program_name": "Satellite Tracking Software",
+    "icon": "satellite.ico",
+    "station_latitude": 49.4862398,
+    "station_longitude": 18.0405796,
+    "station_altitude": 364.0,
+    "min_max": 20.0,
+    "tracked_satellites": [
+        "NOAA 15",
+        "ISS",
+        "CUBESAT XI-IV",
+        "NOAA 18",
+        "CUBESAT XI-V",
+        "NOAA 19",
+        "SWISSCUBE",
+        "VZLUSAT-2",
+        "LASARsat"
+    ]
+}
